@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="450" viewBox="0 0 800 450">
+<rect width="800" height="450" fill="hsl(293,45%,14%)"/><circle cx="300" cy="363" r="130" fill="hsl(293,70%,55%)" opacity=".35"/><circle cx="378" cy="70" r="75" fill="hsl(318,70%,55%)" opacity=".35"/><circle cx="96" cy="80" r="68" fill="hsl(343,70%,55%)" opacity=".35"/><circle cx="310" cy="213" r="133" fill="hsl(8,70%,55%)" opacity=".35"/><circle cx="565" cy="244" r="38" fill="hsl(33,70%,55%)" opacity=".35"/><circle cx="291" cy="67" r="31" fill="hsl(58,70%,55%)" opacity=".35"/><circle cx="345" cy="165" r="88" fill="hsl(83,70%,55%)" opacity=".35"/>
+<rect y="380" width="800" height="70" fill="rgba(0,0,0,.4)"/>
+<text x="30" y="424" font-family="Arial, Helvetica, sans-serif" font-size="24" fill="#fff">Screenshot 2</text>
+</svg>

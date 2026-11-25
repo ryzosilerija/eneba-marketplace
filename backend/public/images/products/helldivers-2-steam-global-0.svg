@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="530" viewBox="0 0 400 530">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0" stop-color="hsl(231,70%,45%)"/><stop offset="1" stop-color="hsl(291,75%,18%)"/></linearGradient></defs>
+<rect width="400" height="530" fill="url(#g)"/>
+<circle cx="320" cy="90" r="120" fill="hsl(291,80%,60%)" opacity=".25"/>
+<circle cx="60" cy="470" r="160" fill="hsl(231,80%,70%)" opacity=".15"/>
+<text x="30" y="250" font-family="Arial, Helvetica, sans-serif" font-size="34" font-weight="700" fill="#fff">Helldivers 2</text>
+<rect x="30" y="455" rx="6" width="150" height="34" fill="rgba(0,0,0,.35)"/>
+<text x="42" y="478" font-family="Arial, Helvetica, sans-serif" font-size="16" fill="#fff">Steam · GLOBAL</text>
+</svg>
